@@ -1,0 +1,27 @@
+{
+  "name": "apiautomationtesting-using-mocha-chai-supertest-jenkines",
+  "version": "1.0.0",
+  "description": "API Framework for Api testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.22.15",
+    "@babel/core": "^7.22.20",
+    "@babel/node": "^7.22.19",
+    "@babel/preset-env": "^7.22.20",
+    "@babel/register": "^7.22.15",
+    "allure": "^0.0.0",
+    "chai": "^4.3.8",
+    "mocha": "^10.2.0",
+    "spec": "^1.0.1",
+    "supertest": "^6.3.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
