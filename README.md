@@ -35,4 +35,13 @@ npm i --save-dev supertest mocha chai @babel/cli @babel/core @babel/node @babel/
    
  # http method
    refer ./test/user.js  
+
+ # mochawesome reporter 
+   sudo npm install --save-dev mochawesome
+  run 
+  sudo npm run generate-report
+
+you can see the report folder
+
+     
  
